@@ -27,21 +27,21 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/api"
-	ocauth "github.com/wso2/ai-agent-management-platform/agent-manager-service/clients/openchoreosvc/auth"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/config"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/db"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/resources"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/server"
+	"github.com/wso2/agent-manager/agent-manager-service/api"
+	ocauth "github.com/wso2/agent-manager/agent-manager-service/clients/openchoreosvc/auth"
+	"github.com/wso2/agent-manager/agent-manager-service/config"
+	"github.com/wso2/agent-manager/agent-manager-service/db"
+	"github.com/wso2/agent-manager/agent-manager-service/resources"
+	"github.com/wso2/agent-manager/agent-manager-service/server"
 
 	// Register secret management providers
-	_ "github.com/wso2/ai-agent-management-platform/agent-manager-service/clients/secretmanagersvc/providers/openbao"
+	_ "github.com/wso2/agent-manager/agent-manager-service/clients/secretmanagersvc/providers/openbao"
 
 	"go.uber.org/automaxprocs/maxprocs"
 
-	dbmigrations "github.com/wso2/ai-agent-management-platform/agent-manager-service/db_migrations"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/signals"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/wiring"
+	dbmigrations "github.com/wso2/agent-manager/agent-manager-service/db_migrations"
+	"github.com/wso2/agent-manager/agent-manager-service/signals"
+	"github.com/wso2/agent-manager/agent-manager-service/wiring"
 )
 
 func setupLogger(cfg *config.Config) {

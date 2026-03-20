@@ -19,9 +19,9 @@ package services
 import (
 	"context"
 
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/clients/gitprovider"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/config"
-	"github.com/wso2/ai-agent-management-platform/agent-manager-service/spec"
+	"github.com/wso2/agent-manager/agent-manager-service/clients/gitprovider"
+	"github.com/wso2/agent-manager/agent-manager-service/config"
+	"github.com/wso2/agent-manager/agent-manager-service/spec"
 )
 
 // RepositoryService defines the interface for repository operations

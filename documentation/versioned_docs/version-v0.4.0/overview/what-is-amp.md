@@ -43,7 +43,7 @@ Deploy WSO2 Agent Manager on Kubernetes using our Helm charts:
 
 ## Getting Started
 
-For installation instructions and a step-by-step guide, see the [Quick Start Guide](https://github.com/wso2/ai-agent-management-platform/blob/amp/v0/docs/quick-start.md).
+For installation instructions and a step-by-step guide, see the [Quick Start Guide](https://github.com/wso2/agent-manager/blob/amp/v0/docs/quick-start.md).
 
 ## Contributing
 
@@ -57,9 +57,9 @@ Please ensure your contributions adhere to our coding standards and include appr
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/wso2/ai-agent-management-platform/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/wso2/agent-manager/blob/main/LICENSE) file for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/wso2/ai-agent-management-platform/issues)
+- **Issues**: [GitHub Issues](https://github.com/wso2/agent-manager/issues)
 - **Community**: [WSO2 Community](https://wso2.com/community/)

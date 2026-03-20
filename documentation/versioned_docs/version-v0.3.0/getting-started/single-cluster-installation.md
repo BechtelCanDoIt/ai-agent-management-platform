@@ -159,4 +159,4 @@ Verify PostgreSQL is running:
 kubectl get pods -n amp-system -l app=postgresql
 ```
 
-For more help, visit our [GitHub Discussions](https://github.com/wso2/ai-agent-management-platform/discussions).
+For more help, visit our [GitHub Discussions](https://github.com/wso2/agent-manager/discussions).

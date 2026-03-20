@@ -20,7 +20,7 @@
 
 FROM public.ecr.aws/docker/library/python:3.11-alpine
 
-LABEL org.opencontainers.image.source="https://github.com/wso2/ai-agent-management-platform"
+LABEL org.opencontainers.image.source="https://github.com/wso2/agent-manager"
 LABEL org.opencontainers.image.description="AMP Evaluation Monitor - AI Agent evaluation job for monitoring workflows"
 LABEL org.opencontainers.image.licenses="Apache-2.0"
 

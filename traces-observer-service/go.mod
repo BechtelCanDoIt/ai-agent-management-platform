@@ -1,4 +1,4 @@
-module github.com/wso2/ai-agent-management-platform/traces-observer-service
+module github.com/wso2/agent-manager/traces-observer-service
 
 go 1.25.0
 

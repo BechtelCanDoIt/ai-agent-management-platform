@@ -41,7 +41,7 @@ Fill in the agent creation form with these exact values:
 | --------------------- | ------------------------------------------------------- |
 | **Display Name**      | `Support Agent`                                         |
 | **Description**       | `AI-powered customer support agent for travel services` |
-| **GitHub Repository** | `https://github.com/wso2/ai-agent-management-platform`  |
+| **GitHub Repository** | `https://github.com/wso2/agent-manager`  |
 | **Branch**            | `main`                                                  |
 | **App Path**          | `samples/customer-support-agent`                        |
 | **Language**          | `Python`                                                |

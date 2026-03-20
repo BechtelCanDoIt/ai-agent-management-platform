@@ -247,5 +247,5 @@ Before submitting a PR, please ensure:
 
 ## Links
 
-- [AI Agent Management Platform Repository](https://github.com/wso2/ai-agent-management-platform)
+- [AI Agent Management Platform Repository](https://github.com/wso2/agent-manager)
 - [Documentation](https://wso2.github.io/ai-agent-management-platform/)

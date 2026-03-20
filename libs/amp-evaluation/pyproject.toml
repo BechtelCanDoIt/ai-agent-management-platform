@@ -35,7 +35,7 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/wso2/ai-agent-management-platform"
+Repository = "https://github.com/wso2/agent-manager"
 
 [build-system]
 build-backend = "hatchling.build"

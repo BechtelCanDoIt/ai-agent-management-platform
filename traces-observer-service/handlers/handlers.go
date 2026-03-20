@@ -25,9 +25,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/wso2/ai-agent-management-platform/traces-observer-service/controllers"
-	"github.com/wso2/ai-agent-management-platform/traces-observer-service/middleware/logger"
-	"github.com/wso2/ai-agent-management-platform/traces-observer-service/opensearch"
+	"github.com/wso2/agent-manager/traces-observer-service/controllers"
+	"github.com/wso2/agent-manager/traces-observer-service/middleware/logger"
+	"github.com/wso2/agent-manager/traces-observer-service/opensearch"
 )
 
 // Handler handles HTTP requests for tracing
